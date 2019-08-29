@@ -39,7 +39,7 @@ Dr Emily Anhalt (Beam)
     * Core values
     * Traditions and rituals
     * Try things and see what happens
-      * "Above and beyond days" Someone gets shouted out and rewarded (pick lunch etc) then next month the shout out someone
+      * "Above and beyond days" Someone gets shouted out and rewarded (pick lunch etc) then next month they shout out someone
       * Anniversary markers - every year/occasion give something to mark the employee
       * Gratituesdays - one a week what your grateful for
     * Communication and Transparency

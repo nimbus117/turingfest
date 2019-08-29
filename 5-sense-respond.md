@@ -43,7 +43,7 @@ Jeff Gothelf (Neo Innovation)
 
 
 ### For employees
-1. Understad your business model
+1. Understand your business model
 2. Take an interest in your customers
 3. Use the software to learn
 4. Measure the impact of your work

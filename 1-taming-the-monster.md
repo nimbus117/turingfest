@@ -23,15 +23,15 @@ Gabrielle Bufrem (Pivotal)
 
 
 * How to tame the monster
-  *  Put in the work
-  *  Good process
-  *  Experiment
-  *  Short feedback loops
-  *  Measure success
-  *  Improve
-  *  Pre-requisites
-  *  Be excited by the vision
-  *  Have business goals
+  * Put in the work
+  * Good process
+  * Experiment
+  * Short feedback loops
+  * Measure success
+  * Improve
+  * Pre-requisites
+  * Be excited by the vision
+  * Have business goals
 
 
 * Goals
@@ -57,17 +57,17 @@ Gabrielle Bufrem (Pivotal)
 * Prioritization framework
   * (not about the right answer) - score each section
   * Reach
-    *   Number of customers that would be positively impacted
+    * Number of customers that would be positively impacted
   * Customer Impact
-    *   How will this impact out customers
+    * How will this impact out customers
   * Business impact
-  *   How the outcome ties to you business goals
+    * How the outcome ties to you business goals
   * Opportunity cost
-  *   Cost of not solving the outcome
+    * Cost of not solving the outcome
   * Confidence
-  *   How validated the problem and solution are with customers (is there a problem, do users even like/want the solution)
+    * How validated the problem and solution are with customers (is there a problem, do users even like/want the solution)
   * Effort
-  *   Estimate the product, engineering and design effort needed to achieve the outcome
+    * Estimate the product, engineering and design effort needed to achieve the outcome
 
 
 * Feature request form
